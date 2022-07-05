@@ -1,0 +1,31 @@
+name: OnFyreSMP
+version: '1.0-SNAPSHOT'
+main: net.onfyre.onfyresmp.Main
+api-version: 1.18
+authors: [ NoahOnFyre ]
+description: OnFyreSMP Pre-End Plugin
+commands:
+  ping:
+    description: Zeigt dir deinen Ping an.
+  gm:
+    description: Wechselt deinen Gamemode.
+  ec:
+    description: Öffnet deine Enderchest.
+  anvil:
+    description: Gibt dir Zugriff auf einen Anvil.
+  tpa:
+    description: Zeigt dir das Spieler-Teleport-Menü.
+  craft:
+    description: Gibt dir Zugriff auf ein Crafting-Grid.
+  spawn:
+    description: Teleportiert dich zum Spawn.
+  skill:
+    description: Zeigt das Skillmenü an.
+  warp:
+    description: Warpt dich zu einem vordefiniertem Ziel.
+  event:
+    description: Verwaltet Events.
+  special:
+    description: Startet eine neue Season
+  bip:
+    description: Better Inv Preview
